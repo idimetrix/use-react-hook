@@ -1,7 +1,7 @@
 {
   "name": "use-react-hook",
   "version": "1.0.1",
-  "description": "React Hooks",
+  "description": "Use React - Use Hooks - Use Contexts",
   "main": "lib/index.js",
   "module": "esm/index.js",
   "sideEffects": false,

@@ -27,15 +27,14 @@
     </a>
     <br />
     Collection of essential <a href="https://reactjs.org/docs/hooks-intro.html">React Hooks</a>.</em>
-    <em>Port of</em> <a href="https://github.com/idimetrix/libreact"><code>libreact</code></a>.
-    <br />
-    Translations: <a href="https://github.com/zenghongtu/use-react-hook-chinese/blob/master/README.md">🇨🇳 汉语</a>
   </sup>
   <br />
   <br />
   <br />
   <br />
   <pre>npm i <a href="https://www.npmjs.com/package/use-react-hook">use-react-hook</a></pre>
+  <pre>yarn i <a href="https://www.npmjs.com/package/use-react-hook">use-react-hook</a></pre>
+  <pre>pnpm add <a href="https://www.npmjs.com/package/use-react-hook">use-react-hook</a></pre>
   <br />
   <br />
   <br />
